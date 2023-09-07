@@ -1,0 +1,188 @@
+[
+  {
+    "ranking": 1,
+    "nombreUniversidad": "Universidad de Buenos Aires",
+    "siglas": "UBA",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 2,
+    "nombreUniversidad": "Universidad Católica Argentina",
+    "siglas": "UCA",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 3,
+    "nombreUniversidad": "Universidad Austral",
+    "siglas": "UA",
+    "ciudad": "Buenos Aires "
+  },
+  {
+    "ranking": 4,
+    "nombreUniversidad": "Universidad Tecnológica Nacional",
+    "siglas": "UTN",
+    "ciudad": "Buenos Aires "
+  },
+  {
+    "ranking": 5,
+    "nombreUniversidad": "Universidad Torcuato Di Tella",
+    "siglas": "UTDT",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 6,
+    "nombreUniversidad": "Universidad de Palermo",
+    "siglas": "UP",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 7,
+    "nombreUniversidad": "Instituto Tecnológico de Buenos Aires",
+    "siglas": "ITBA",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 8,
+    "nombreUniversidad": "Universidad de Belgrano",
+    "siglas": "UB",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 9,
+    "nombreUniversidad": "Universidad del Salvador Buenos Aires",
+    "siglas": "USAL",
+    "ciudad": "Buenos Aires "
+  },
+  {
+    "ranking": 10,
+    "nombreUniversidad": "Universidad Argentina de la Empresa",
+    "siglas": "UADE",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 11,
+    "nombreUniversidad": "Universidad Nacional de Tres de Febrero",
+    "siglas": "UNTREF",
+    "ciudad": "Buenos Aires "
+  },
+  {
+    "ranking": 12,
+    "nombreUniversidad": "Universidad de Ciencias Empresariales y Sociales",
+    "siglas": "UCES",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 13,
+    "nombreUniversidad": "Facultad Latinoamericana de Ciencias Sociales Argentina",
+    "siglas": "FLACSO",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 14,
+    "nombreUniversidad": "Universidad del CEMA",
+    "siglas": "UCEMA",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 15,
+    "nombreUniversidad": "Universidad Abierta Interamericana",
+    "siglas": "UAI",
+    "ciudad": "Buenos Aires "
+  },
+  {
+    "ranking": 16,
+    "nombreUniversidad": "Instituto Universitario del Hospital Italiano",
+    "siglas": "IUHIBA",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 17,
+    "nombreUniversidad": "Universidad Favaloro",
+    "siglas": "UF",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 18,
+    "nombreUniversidad": "Instituto Universitario CEMIC",
+    "siglas": "IUC",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 19,
+    "nombreUniversidad": "Universidad Maimónides",
+    "siglas": "UMAI",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 20,
+    "nombreUniversidad": "Universidad Argentina John F Kennedy",
+    "siglas": "UK",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 21,
+    "nombreUniversidad": "Instituto Universitario de Ciencias de la Salud",
+    "siglas": "CEUNIB",
+    "ciudad": "Buenos Aires "
+  },
+  {
+    "ranking": 22,
+    "nombreUniversidad": "Universidad CAECE",
+    "siglas": "CAECE",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 23,
+    "nombreUniversidad": "Universidad Nacional de las Artes",
+    "siglas": "UNA",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 24,
+    "nombreUniversidad": "Universidad Pedagógica Nacional Argentina",
+    "siglas": "UNIPE",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 25,
+    "nombreUniversidad": "Universidad Isalud",
+    "siglas": "ISALUD",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 26,
+    "nombreUniversidad": "Escuela de Economía y Administración de Empresas",
+    "siglas": "ESEADE",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 27,
+    "nombreUniversidad": "Universidad del Museo Social Argentino",
+    "siglas": "UMSA",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 28,
+    "nombreUniversidad": "Universidad de Flores",
+    "siglas": "UFLO",
+    "ciudad": "Buenos Aires "
+  },
+  {
+    "ranking": 29,
+    "nombreUniversidad": "Universidad de la Marina Mercante",
+    "siglas": "UDEMM",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 30,
+    "nombreUniversidad": "Universidad del Cine",
+    "siglas": "UCINE",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "ranking": 31,
+    "nombreUniversidad": "Instituto para el Desarrollo Empresarial de la Argentina",
+    "siglas": "IDEA",
+    "ciudad": "Buenos Aires "
+  }
+]
